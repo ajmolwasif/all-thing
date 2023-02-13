@@ -1,0 +1,77 @@
+.color{
+    color:red;
+}
+h1{
+   font-family:'q';
+    font-size: 70px;
+}
+.flexible-content{
+    display: flex;
+    margin-bottom: 60px;
+}
+.half-width{
+    width: 50%;
+}
+.back-img{
+  background-image: url(images/shapes/Frame\ 58.jpg);
+}
+.link-button{
+    text-decoration: none;
+    background-color: burlywood;
+    padding: 2% 2%;
+    border-radius: 10px;
+    color:white;
+}
+.pure-fruit{
+    display: flex;
+    background-image: url(images/shapes/7.png);
+}
+.pure-fruit h1{
+    font-size: 45px;
+}
+
+.pure-fruit p{
+    padding-right: 20px;
+    text-align: center;
+    
+}
+.experience{
+    margin:3% 4% 3% 4% ;
+    height: 20px;
+    text-align: center;
+    border-radius: 30px;
+    background: white;
+    padding: 2px;
+    box-shadow: 40px 40px 40px gray;
+    margin-bottom: 40px;
+}
+
+    .experience img{
+        margin: 5px 30px 10px 5px;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        border-radius: 20%;
+        height: 40px 50px;
+    }
+    .shanto{
+        height: 400px;
+        width: 400px;
+         
+    }
+    .xarif{
+        text-align: center;
+        width: 33.33%;
+    }
+    .rima{
+        
+        margin-top: 900px;
+        font-size: larger;
+        font-weight:bolder;
+        color: yellowgreen;
+        text-align: center;
+    }
+
+
+    .experience p{
+        margin: 0px 20px 0px 20px;}
